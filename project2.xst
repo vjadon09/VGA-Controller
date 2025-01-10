@@ -1,0 +1,5 @@
+set -tmpdir "/home/student2/asazeez/COE758/Project2FinalCodeDemo_hi/PingPong_V2/PingPong_V2/COE758-Project2-main/xst/projnav.tmp"
+set -xsthdpdir "/home/student2/asazeez/COE758/Project2FinalCodeDemo_hi/PingPong_V2/PingPong_V2/COE758-Project2-main/xst"
+elaborate
+-ifn project2.prj
+-ifmt mixed

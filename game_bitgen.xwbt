@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/student2/slogozzo/COE758/Project2/Project2/game.ncd
+OUTFILE=/home/student2/slogozzo/COE758/Project2/Project2/game.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=/home/student2/slogozzo/COE758/Project2/Project2
+LICENSE=ISE
+USER_INFO=175353682_174116511_210722484_808

@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/impact.xsl
+OUTFILE=/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main
+LICENSE=iMPACT
+USER_INFO=iMPACT

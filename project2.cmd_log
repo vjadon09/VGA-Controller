@@ -1,0 +1,172 @@
+xst -intstyle ise -ifn "/home/student2/slogozzo/COE758/Project2/Project2/project2.xst" -ofn "/home/student2/slogozzo/COE758/Project2/Project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/slogozzo/COE758/Project2/Project2/project2.xst" -ofn "/home/student2/slogozzo/COE758/Project2/Project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/slogozzo/COE758/Project2/Project2/project2.xst" -ofn "/home/student2/slogozzo/COE758/Project2/Project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/slogozzo/COE758/Project2/Project2/project2.xst" -ofn "/home/student2/slogozzo/COE758/Project2/Project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/slogozzo/COE758/Project2/Project2/project2.xst" -ofn "/home/student2/slogozzo/COE758/Project2/Project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/slogozzo/COE758/Project2/Project2/project2.xst" -ofn "/home/student2/slogozzo/COE758/Project2/Project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/rabrasia/Music/COE758-Project2-main/project2.xst" -ofn "/home/student2/rabrasia/Music/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.syr" 
+xst -intstyle ise -ifn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.syr" 
+xst -intstyle ise -ifn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.syr" 
+xst -intstyle ise -ifn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/a337pate/COE758/PingPong_V2/COE758-Project2-main/project2.syr" 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student1/vjadon/Documents/758/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.xst" -ofn "/home/student2/asazeez/COE758/Project2FinalCodeDemo/PingPong_V2/PingPong_V2/COE758-Project2-main/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc game.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf game.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
